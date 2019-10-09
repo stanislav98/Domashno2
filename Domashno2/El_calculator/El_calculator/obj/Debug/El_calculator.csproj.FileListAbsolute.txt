@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\bin\Debug\El_calculator.exe.config
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\bin\Debug\El_calculator.exe
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\bin\Debug\El_calculator.pdb
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\obj\Debug\El_calculator.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\obj\Debug\El_calculator.Form1.resources
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\obj\Debug\El_calculator.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\obj\Debug\El_calculator.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\obj\Debug\El_calculator.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\obj\Debug\El_calculator.exe
+D:\za universiteta\TSP\Domashno2\El_calculator\El_calculator\obj\Debug\El_calculator.pdb

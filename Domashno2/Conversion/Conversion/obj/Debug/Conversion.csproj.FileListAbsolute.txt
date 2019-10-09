@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\bin\Debug\Conversion.exe.config
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\bin\Debug\Conversion.exe
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\bin\Debug\Conversion.pdb
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\obj\Debug\Conversion.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\obj\Debug\Conversion.Form1.resources
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\obj\Debug\Conversion.exe
+D:\za universiteta\TSP\Domashno2\Conversion\Conversion\obj\Debug\Conversion.pdb
